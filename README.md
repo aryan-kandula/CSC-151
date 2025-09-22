@@ -1,3 +1,3 @@
-# CSC-151-1902
+# CSC-151
 # Java Programming
 ### Aryan Kandula
